@@ -1,0 +1,21 @@
+/*
+	Comments: 
+	Author: Sean Peters
+	Date: April 20, 2024 
+	Assignment: Bootstrap B&B 
+	Filename: styles.css
+*/
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #8a6132;
+  background-color: #e3e1e1; 
+}
+
+/*DIVIDERS*/
+.featurette-divider {
+  margin: 5rem 0;
+}
+
+

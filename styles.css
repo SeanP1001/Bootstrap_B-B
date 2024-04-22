@@ -18,4 +18,52 @@ body {
   margin: 5rem 0;
 }
 
+/*CAROUSEL*/
+.carousel {
+  margin: 0 auto 4rem;
+  max-width: 90%;
+}
+
+.carousel-item {
+  height: 32rem;
+  background-color: #777;
+}
+
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+/*COLUMN CONTENT*/
+.blurbs .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.blurbs h2 {
+  font-weight: 400;
+}
+
+.blurbs .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+/*Small Picture frames*/
+rounded-square {
+  width: 140px; 
+  height: 140px;
+  overflow: hidden;
+}
+
+@media (min-width: 40em) {
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+}
 
