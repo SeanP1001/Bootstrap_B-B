@@ -64,7 +64,7 @@
         <div id="map"></div>
 		  <!-- Google Maps API -->
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1123.3273473930633!2d-93.29657325916985!3d37.218050707295184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87cf63e927b8fddd%3A0x3cbc33de53e3515a!2sRader%20Manor!5e0!3m2!1sen!2sus!4v1713796482883!5m2!1sen!2sus" 
-			width="400" height="450" style="border:0;" allowfullscreen=""></iframe>
+			width="400" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </div>
 	        <!--FOOTER / DIVIDER -->
